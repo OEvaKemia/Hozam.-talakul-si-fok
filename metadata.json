@@ -1,0 +1,6 @@
+{
+  "name": "Reakció Mestere – Kémiai Számítások",
+  "description": "Interaktív kémiai feladatmegoldó játék: összátalakulási fok, hasznos átalakulási fok, hozam és sztöchiometria 3D interaktív gömbökkel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
